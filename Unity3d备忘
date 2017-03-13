@@ -1,0 +1,2 @@
+IF Animation.Speed=负值 do 动画倒放 end
+IF Rigidbody.IsKinematic=true do 不受动力影响 end
